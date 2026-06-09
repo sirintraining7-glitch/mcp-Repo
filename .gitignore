@@ -1,0 +1,38 @@
+.vscode/
+node_modules/
+.env
+.env.local
+.DS_Store
+dist/
+build/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vagrant/
+*.tfstate
+.terraform/
+.venv/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Windows
+*.ps1
+
+# Bicep/infra
+*.parameters.json
+
+# Visual Studio
+bin/
+obj/
